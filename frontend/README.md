@@ -28,6 +28,8 @@ This app allows users to search for stocks, track their performance, and manage 
 ---
 
 ## 📂 Project Structure
+
+```bash
 src/
 │
 ├── pages/
